@@ -15,4 +15,4 @@ My CV can be found [here](https://aiftakher.github.io/files/1.1_Ashfaq_CV.pdf). 
 
 News
 ======
-10/5/2024: Our paper on Hybrid optimization algorithm for efficient process design got accepted at Computers and Chemical Engineering! 
+10/5/2024: Our paper on hybrid optimization algorithm for efficient process design got accepted at Computers and Chemical Engineering! 
