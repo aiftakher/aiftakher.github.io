@@ -9,13 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV can be found here: 
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-Work experience
+Research Experinece
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
