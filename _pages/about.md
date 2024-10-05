@@ -1,11 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ashfaq Iftakher"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a fourth-year PhD student in Chemical Engineering at Texas A&M University. I work at the [Systems Optimization and Multiscale Analysis group](https://people.tamu.edu/~hasan/) under the supervision of [Prof. Faruque Hasan](https://engineering.tamu.edu/chemical/profiles/hasan-faruque.html#:~:text=Assistant%20Director%20of%20Decarbonization,%20Texas%20A&M).
+
+Previously, I was a Senior Principal Researcher at Microsoft Semantic Machines, where I led the design and development of a system that aims to predict the next user action (e.g., sending an email, opening a file, adding specific people to a calendar invite, etc.) based on what a user and others in their network have been doing (underlying this system was a novel Foundation Model over user actions). I managed a team across both research and engineering, and helped set the technical direction for the broader organization. I invested heavily in aligning research and engineering, and I worked closely with multiple partner teams at Microsoft to deliver on our objectives, while also helping improve the underlying platform and infrastructure that we leveraged. Earlier on in my career at Microsoft I also served as a key contributor to the research and development of the Semantic Machines conversational AI platform which handled user requests by using a neural network to synthesize computer programs in a new proprietary programming language. I designed and shipped the program synthesis neural network (i.e., a contextual semantic parser) that powers the platform.
+
+Prior to that, I was a PhD student in the Machine Learning Department of the School of Computer Science at Carnegie Mellon University. My advisor was Tom Mitchell and I worked on Never-Ending Learning. My PhD thesis on learning collections of functions can be found here. Throughout my PhD I also worked on multiple other projects related to artificial intelligence and machine learning.
+
+Before I joined CMU, I graduated with an M.Eng. in Electrical and Electronic Engineering from Imperial College London. For my Master's thesis I proposed a way to use topic modelling methods in order to perform human motion classification.
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
