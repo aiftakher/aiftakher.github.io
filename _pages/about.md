@@ -15,9 +15,9 @@ My CV can be found [here](https://aiftakher.github.io/files/1.1_Ashfaq_CV.pdf). 
 
 News
 ======
-*10/07/2024*: Our paper on hybrid optimization algorithm integrating equilibrium and rate-based models for efficient process design got accepted in Computers and Chemical Engineering journal. 
+10/07/2024: Our paper on hybrid optimization algorithm integrating equilibrium and rate-based models for efficient process design got accepted in Computers and Chemical Engineering journal. 
 
-*10/06/2024*: Our paper on the conversion of polyethylene terephthalate (PET) to p-xylene using methanol over a tandem catalyst got accepted in Angewandte Chemie ([link](https://onlinelibrary.wiley.com/doi/10.1002/anie.202416384#)). 
+10/06/2024: Our paper on the conversion of polyethylene terephthalate (PET) to p-xylene using methanol over a tandem catalyst got accepted in Angewandte Chemie ([link](https://onlinelibrary.wiley.com/doi/10.1002/anie.202416384#)). 
 
-*07/17/2024*: We presented a poster at the [FOCAPD 2024](https://focapd.cache.org/) conference on the application of quantum optimization for computer-aided molecular and process design problems. [[link](https://psecommunity.org/LAPSE:2024.1540)][[paper](https://psecommunity.org/wp-content/plugins/wpor/includes/file/2407/LAPSE-2024.1540-1v1.pdf)]
+07/17/2024: We presented a poster at the [FOCAPD 2024](https://focapd.cache.org/) conference on the application of quantum optimization for computer-aided molecular and process design problems. [[link](https://psecommunity.org/LAPSE:2024.1540)][[paper](https://psecommunity.org/wp-content/plugins/wpor/includes/file/2407/LAPSE-2024.1540-1v1.pdf)]
 
