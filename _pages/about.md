@@ -15,7 +15,7 @@ My CV can be found [here](https://aiftakher.github.io/files/1.1_Ashfaq_CV.pdf). 
 
 News
 ======
-10/18/2024: Our paper on hybrid optimization algorithm integrating equilibrium and rate-based models for efficient process design got published in Computers and Chemical Engineering journal ([link](https://www.sciencedirect.com/science/article/pii/S0098135424003089?via%3Dihub))). 
+10/18/2024: Our paper on hybrid optimization algorithm integrating equilibrium and rate-based models for efficient process design got published in Computers and Chemical Engineering journal ([link](https://www.sciencedirect.com/science/article/pii/S0098135424003089?via%3Dihub)). 
 
 10/06/2024: Our paper on the conversion of polyethylene terephthalate (PET) to p-xylene using methanol got accepted in Angewandte Chemie ([link](https://onlinelibrary.wiley.com/doi/10.1002/anie.202416384#)). 
 
