@@ -11,7 +11,7 @@ I am a fourth-year PhD student in Chemical Engineering at Texas A&M University. 
 
 Prior to that, I earned my B.Sc. (2018) and M.Sc. (2020) in Chemical Engineering from the Bangladesh University of Engineering and Technology (BUET). My M.Sc. research, under [Prof. Shoukat Choudhury](https://scholar.google.com/citations?user=HCyAZMQAAAAJ#:~:text=Dr.%20M.%20A.%20A.%20Shoukat%20Choudhury.) and [Prof. Rafiqul Gani](https://scholar.google.com/citations?user=zpXSGaIAAAAJ#:~:text=Articles%201%E2%80%9320.%20%E2%80%AAPSE%20for%20SPEED%20Company,), focused on the integrated design and control of reactive distillation processes, where I established near-optimal controllability of driving-force-based design of reactive distillation systems. I was also the lead developer of RD-DCT, a driving-force-based design-control toolbox for performing steady state and dynamic simulation as well as PID and model predictive control analysis of reactive distillation systems ([Talk](https://youtu.be/VqxWVOXlxMw?si=2Hrcr1suavgsiQR2)). 
 
-My CV can be found [here](https://aiftakher.github.io/files/CV_Ashfaq_Iftakher.pdf). (Update: 04/5/2025)
+My CV can be found [here](https://aiftakher.github.io/files/CV_Ashfaq_Iftakher.pdf). (Update: 04/05/2025)
 
 News
 ======
